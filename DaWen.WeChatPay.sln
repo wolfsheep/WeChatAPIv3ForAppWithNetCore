@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaWen.WeChatPay", "DaWen.WeChatPay\DaWen.WeChatPay.csproj", "{4163A707-3F28-42AB-BCF7-65932FBE4989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW.Utils", "DW.Utils\DW.Utils.csproj", "{453C540D-7582-46AC-A87A-F87E94E663C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4163A707-3F28-42AB-BCF7-65932FBE4989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4163A707-3F28-42AB-BCF7-65932FBE4989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4163A707-3F28-42AB-BCF7-65932FBE4989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4163A707-3F28-42AB-BCF7-65932FBE4989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453C540D-7582-46AC-A87A-F87E94E663C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453C540D-7582-46AC-A87A-F87E94E663C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453C540D-7582-46AC-A87A-F87E94E663C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453C540D-7582-46AC-A87A-F87E94E663C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90524F4C-846A-44E7-9611-1BCC77AF6531}
+	EndGlobalSection
+EndGlobal
