@@ -1,0 +1,2 @@
+# WeChatAPIv3ForAppWithNetCore
+为APP写的微信支付APIv3版本的.NET Core接口
