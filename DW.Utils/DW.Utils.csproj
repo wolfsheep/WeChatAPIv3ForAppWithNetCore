@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>DW.WeChatPayAPIv3ForAPP.AspNET.Core</PackageId>
+    <Authors>DawenYang</Authors>
+    <Company>DawenYang</Company>
+    <Product>CoderYang</Product>
+    <Description>为APP写的微信支付APIv3版本的.NET Core接口
+github仓库地址：https://github.com/wolfsheep/WeChatAPIv3ForAppWithNetCore
+gitee仓库地址：https://gitee.com/dawenyang_admin/WeChatAPIv3ForAppWithNetCore
+把我的代码重构了一遍，方便大家的使用。可能还有很多问题，欢迎大家反馈。</Description>
+    <PackageReleaseNotes>微信支付V3的后端接口，方便大家使用，有问题大家联系我.
+邮箱:dawenyang0613@outlook.com</PackageReleaseNotes>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
