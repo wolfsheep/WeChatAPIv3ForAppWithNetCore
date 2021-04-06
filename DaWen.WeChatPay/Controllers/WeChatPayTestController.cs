@@ -2,10 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using DW.Utils.Models;
@@ -18,7 +15,6 @@ using DW.Utils.Models.RefundsCallback;
 using DW.Utils.Models.WxPayCallback;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.Configuration;
-using Newtonsoft.Json;
 
 namespace DaWen.WeChatPay.Controllers
 {
