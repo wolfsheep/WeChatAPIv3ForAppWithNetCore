@@ -22,6 +22,10 @@ gitee仓库地址：https://gitee.com/dawenyang_admin/WeChatAPIv3ForAppWithNetCo
     <AssemblyVersion>0.1.0.0</AssemblyVersion>
     <FileVersion>0.1.0.0</FileVersion>
     <Version>0.1.0</Version>
+    <PackageProjectUrl>https://github.com/wolfsheep/WeChatAPIv3ForAppWithNetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/wolfsheep/WeChatAPIv3ForAppWithNetCore</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>DawenYang</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
