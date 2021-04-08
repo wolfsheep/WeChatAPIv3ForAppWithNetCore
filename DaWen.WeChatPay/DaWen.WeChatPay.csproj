@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DW.WeChatPayAPIv3ForAPP.AspNET.Core" Version="1.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspNetCore.WeChatPayAPIv3\AspNetCore.WeChatPayAPIv3.csproj" />
   </ItemGroup>
 
 </Project>

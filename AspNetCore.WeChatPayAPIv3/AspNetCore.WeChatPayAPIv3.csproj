@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>为APP写的微信支付APIv3版本的.NET Core接口
+已集成接口：
+官方API：https://pay.weixin.qq.com/wiki/doc/apiv3/apis/chapter3_2_1.shtml
+  1.统一下单
+  2.查询订单
+  3.关闭订单
+  4.支付结果通知
+  5.申请退款
+  6.查询退款
+  7.退款结果通知</Description>
+    <Company>DawenYang</Company>
+    <Authors>DawenYang</Authors>
+    <PackageReleaseNotes>微信支付V3的后端接口，方便大家使用，有问题大家联系我.
+邮箱:dawenyang0613@outlook.com
+github仓库地址：https://github.com/wolfsheep/WeChatAPIv3ForAppWithNetCore
+gitee仓库地址：https://gitee.com/dawenyang_admin/WeChatAPIv3ForAppWithNetCore</PackageReleaseNotes>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Portable.BouncyCastle" Version="1.8.10" />
+    <PackageReference Include="System.Security.Cryptography.Cng" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>
